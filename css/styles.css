@@ -3394,12 +3394,20 @@ img.u-pull-left {
     font-family      : var(--font-1);
     font-weight      : 600;
     font-size        : calc(var(--text-size) * 1.1053);
-    line-height      : var(--vspace-1_5);
+    line-height      : var(--vspace-11);
     color            : var(--color-text-dark);
     text-decoration  : none;
     padding          : .4rem;
-
 }
+
+    /* font-size     : calc(var(--text-size) * 1.1053);
+    font-weight   : 300;
+    line-height   : var(--vspace-1);
+    color         : var(--color-1-dark);
+    margin-top    : 0;
+    margin-bottom : var(--vspace-0_25);
+    margin-left   : .1em;
+    position      : relative; */
 
 /* --------------------------------------------------------------------
  * ## about timelines
